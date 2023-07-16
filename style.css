@@ -1,0 +1,25 @@
+nav {
+  background-color: deepskyblue;
+  text-align: center;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  padding: 30px;
+}
+
+.box {
+  background-color: darkgreen;
+  height: 200px;
+  width: 200px;
+  margin: 10px 0px;
+  display: inline-block;
+}
